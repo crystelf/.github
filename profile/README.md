@@ -1,6 +1,6 @@
 # Hi there, this is Crystelf 👋
 
-<img src="https://github.com/user-attachments/assets/732b66df-431a-4db6-9e6b-af091ab232a9" width = “600” height = “600”/>
+![crystelf](https://github.com/user-attachments/assets/1c2ac79c-1d1e-404c-b42c-849aadc95521)
 
 The Crystelf team is made up of a group of developers who love programming, value life and are grateful for it.
 
