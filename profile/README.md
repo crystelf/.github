@@ -6,12 +6,6 @@
 
 - Our hardware room started from g41, and has evolved over the years, and is now equipped with multiple systems and full gigabit interconnections.
 
-- Our software system is currently in its infancy, and currently covers services such as:
-  - TRSS-Yunzai
-  - crystelf cloud-storage
-  - crystelf-core
-  - crystelf webpage
-
 ## Join us  
 - QQ-Group For Chat : `884788970`
 - QQ-Group For Developer : `1023625838`
